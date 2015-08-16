@@ -52,7 +52,7 @@ def process_user(username):
                             continue # hack to break to outer for-loop if we called break 2 lines above
                         break
     if not good_guy:
-        print(u"{0} <{1}> done no sponsor work".format(human_name, username))
+        print(u"{0} <{1}> - no recent sponsor activity".format(human_name, username))
 
 
 #client.username = "msuchy"
