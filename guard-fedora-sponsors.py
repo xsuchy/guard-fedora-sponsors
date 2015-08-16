@@ -1,10 +1,14 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+# vim: noai:ts=4:sw=4:expandtab
 
+from fedora.client import AuthError, AccountSystem
+from six.moves import configparser
 import bugzilla
 import datetime
-from fedora.client import AuthError, AccountSystem
 import getpass
+import os
+import six
 
 DAYS_AGO = 365
 client = AccountSystem()
@@ -70,9 +74,24 @@ def process_user(username):
     if not good_guy:
         print(u"{0} <{1}> - no recent sponsor activity".format(human_name, username))
 
+def config_value(raw_config, key):
+    try:
+        if six.PY3:
+            return raw_config["main"].get(key, None)
+        else:
+            return raw_config.get("main", key, None)
+    except configparser.Error as err:
+        sys.stderr.write("Bad configuration file: {0}".format(err))
+        sys.exit(1)
 
 #client.username = "msuchy"
 #client.password = "XXXX"
+raw_config = configparser.ConfigParser()
+filepath = os.path.join(os.path.expanduser("~"), ".config", "fedora")
+config = {}
+if raw_config.read(filepath):
+    client.username = config_value(raw_config, "username")
+    client.password = config_value(raw_config, "password")
 
 try:
     packagers = client.group_members("packager")
