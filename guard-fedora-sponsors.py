@@ -10,7 +10,7 @@ import getpass
 import os
 import six
 
-DAYS_AGO = 365
+DAYS_AGO = 60
 client = AccountSystem()
 bz = bugzilla.Bugzilla(url='https://bugzilla.redhat.com/xmlrpc.cgi')
 
