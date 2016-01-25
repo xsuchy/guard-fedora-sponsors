@@ -1,0 +1,20 @@
+This is report for past 60 days:
+
+Adrien Devresse <adev> - directly sponsored: ['andreamanzi']
+Haïkel Guémar <hguemar> removed FE-NEEDSPONSOR from BZ 1241632
+Haïkel Guémar <hguemar> removed FE-NEEDSPONSOR from BZ 1243048
+Haïkel Guémar <hguemar> worked on BZ 1257178
+Haïkel Guémar <hguemar> - directly sponsored: ['xinwu', 'mflobo']
+Richard Shaw <hobbes1069> - directly sponsored: ['jenslody']
+Kalev Lember <kalev> - directly sponsored: ['feborges']
+Lubomir Rintel <lkundrak> - directly sponsored: ['psutter']
+Miroslav Suchý <msuchy> removed FE-NEEDSPONSOR from BZ 1259532
+Miroslav Suchý <msuchy> removed FE-NEEDSPONSOR from BZ 1113301
+Miroslav Suchý <msuchy> - directly sponsored: ['pwalter', 'bcornec']
+Nick Bebout <nb> - directly sponsored: ['swilkerson']
+Nils Philippsen <nphilipp> - directly sponsored: ['fweimer']
+Orion Poplawski <orion> - directly sponsored: ['marcusk']
+Stephen Gallagher <sgallagh> - directly sponsored: ['cockpit', 'rharwood']
+Vít Ondruch <vondruch> removed FE-NEEDSPONSOR from BZ 1244760
+Vít Ondruch <vondruch> removed FE-NEEDSPONSOR from BZ 1244764
+Vít Ondruch <vondruch> - directly sponsored: ['ilgrad']

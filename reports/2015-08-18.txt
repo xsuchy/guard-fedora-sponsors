@@ -1,0 +1,92 @@
+Alexander Kurtakov <akurtakov> removed FE-NEEDSPONSOR from BZ 1190728
+Alexander Kurtakov <akurtakov> removed FE-NEEDSPONSOR from BZ 1226926
+Alexander Kurtakov <akurtakov> - directly sponsored: [u'zzambers', u'jwakely', u'sopotc']
+Dennis Gilmore <ausil> - directly sponsored: [u'jperrin']
+Björn "besser82" Esser <besser82> removed FE-NEEDSPONSOR from BZ 1129677
+Björn "besser82" Esser <besser82> - directly sponsored: [u'romanofski']
+Douglas Schilling Landgraf <dougsland> removed FE-NEEDSPONSOR from BZ 1191498
+Eduardo Echeverria <echevemaster> removed FE-NEEDSPONSOR from BZ 1141494
+Eduardo Echeverria <echevemaster> - directly sponsored: [u'williamjmorenor', u'robyduck', u'tonet666p']
+Marek Goldmann <goldmann> removed FE-NEEDSPONSOR from BZ 1213111
+Marek Goldmann <goldmann> - directly sponsored: [u'error', u'karm']
+Haïkel Guémar <hguemar> removed FE-NEEDSPONSOR from BZ 1090933
+Haïkel Guémar <hguemar> worked on BZ 1150504
+Haïkel Guémar <hguemar> removed FE-NEEDSPONSOR from BZ 1196366
+Haïkel Guémar <hguemar> removed FE-NEEDSPONSOR from BZ 1219540
+Haïkel Guémar <hguemar> removed FE-NEEDSPONSOR from BZ 1231943
+Haïkel Guémar <hguemar> worked on BZ 1241632
+Haïkel Guémar <hguemar> worked on BZ 1241812
+Haïkel Guémar <hguemar> removed FE-NEEDSPONSOR from BZ 1242011
+Haïkel Guémar <hguemar> worked on BZ 1243048
+Haïkel Guémar <hguemar> - directly sponsored: [u'divius', u'anvil', u'gdubreui', u'gabbayo', u'vkmc', u'coolsvap',
+u'flepied', u'bcotton', u'trown', u'bdemers', u'jpena', u'alphacc']
+José Matos <jamatos> worked on BZ 1126100
+Jaroslav Škarvada <jskarvad> removed FE-NEEDSPONSOR from BZ 1184040
+Jaroslav Škarvada <jskarvad> - directly sponsored: [u'absal0m', u'vtrefny']
+Kalev Lember <kalev> - directly sponsored: [u'catanzaro', u'mhatina']
+Kevin Kofler <kkofler> - directly sponsored: [u'germano']
+Ken Dreyer <ktdreyer> - directly sponsored: [u'no1youknowz', u'dachary', u'yo61', u'trhoden']
+Xavier Lamien <laxathom> - directly sponsored: [u'tpokorra', u'elsupergomez']
+Lubomir Rintel <lkundrak> removed FE-NEEDSPONSOR from BZ 823679
+Lubomir Rintel <lkundrak> removed FE-NEEDSPONSOR from BZ 1162148
+Lubomir Rintel <lkundrak> removed FE-NEEDSPONSOR from BZ 1196289
+Lubomir Rintel <lkundrak> - directly sponsored: [u'marwin', u'acatton', u'zvetlik', u'jbenc']
+Adam Miller <maxamillion> removed FE-NEEDSPONSOR from BZ 1251238
+Matthew Booth <mdbooth> removed FE-NEEDSPONSOR from BZ 1132971
+Matthew Booth <mdbooth> - directly sponsored: [u'errr']
+Michael Scherer <misc> removed FE-NEEDSPONSOR from BZ 1100870
+Michael Scherer <misc> - directly sponsored: [u'jehane', u'fbo', u'tdecacqu']
+Mikolaj Izdebski <mizdebsk> - directly sponsored: [u'mikedep333', u'stbenjam', u'am1g0', u'noa', u'vjancik', u'bjornmu',
+u'jkang', u'lloesche']
+Matthias Runge <mrunge> - directly sponsored: [u'gchamoul', u'jrist', u'mattbenjamin']
+Michael Schwendt (Fedora Packager Sponsors Group) <mschwendt> removed FE-NEEDSPONSOR from BZ 1193878
+Michael Schwendt (Fedora Packager Sponsors Group) <mschwendt> removed FE-NEEDSPONSOR from BZ 1197505
+Michael Schwendt (Fedora Packager Sponsors Group) <mschwendt> - directly sponsored: [u'bkueng', u'rosslagerwall']
+Miroslav Suchý <msuchy> worked on BZ 1061732
+Miroslav Suchý <msuchy> worked on BZ 1113301
+Miroslav Suchý <msuchy> removed FE-NEEDSPONSOR from BZ 1119056
+Miroslav Suchý <msuchy> removed FE-NEEDSPONSOR from BZ 1131616
+Miroslav Suchý <msuchy> removed FE-NEEDSPONSOR from BZ 1134377
+Miroslav Suchý <msuchy> - directly sponsored: [u'frostyx', u'vgologuz', u'asamalik', u'tomprince', u'stardust85', u'mhonek']
+Mamoru TASAKA <mtasaka> - directly sponsored: [u'pranvk']
+Orion Poplawski <orion> worked on BZ 1226719
+Orion Poplawski <orion> worked on BZ 1235404
+Orion Poplawski <orion> - directly sponsored: [u'moezroy', u'kim27', u'loveshack']
+T.C. Hollingsworth <patches> - directly sponsored: [u'obnox']
+Paulo Andrade <pcpa> worked on BZ 1198246
+Paulo Andrade <pcpa> - directly sponsored: [u'sbonazzo']
+Pierre-YvesChibon <pingou> - directly sponsored: [u'ohaessler']
+Parag Nemade <pnemade> - directly sponsored: [u'piotrp', u'mrniranjan', u'chandankumar', u'sinnykumari', u'alexpl']
+Petr Šabata <psabata> removed FE-NEEDSPONSOR from BZ 1165620
+Petr Šabata <psabata> removed FE-NEEDSPONSOR from BZ 1165625
+Petr Šabata <psabata> removed FE-NEEDSPONSOR from BZ 1165627
+Petr Šabata <psabata> removed FE-NEEDSPONSOR from BZ 1165629
+Petr Šabata <psabata> removed FE-NEEDSPONSOR from BZ 1165631
+Petr Šabata <psabata> removed FE-NEEDSPONSOR from BZ 1165637
+Petr Šabata <psabata> removed FE-NEEDSPONSOR from BZ 1165639
+Petr Šabata <psabata> removed FE-NEEDSPONSOR from BZ 1165641
+Petr Šabata <psabata> removed FE-NEEDSPONSOR from BZ 1234791
+Petr Šabata <psabata> removed FE-NEEDSPONSOR from BZ 1242724
+Petr Šabata <psabata> removed FE-NEEDSPONSOR from BZ 1242727
+Petr Šabata <psabata> - directly sponsored: [u'cbm', u'ttorling', u'jonkni']
+Patrick Uiterwijk <puiterwijk> removed FE-NEEDSPONSOR from BZ 1194576
+Patrick Uiterwijk <puiterwijk> - directly sponsored: [u'kushal124', u'agruenba']
+Paul Wouters <pwouters> - directly sponsored: [u'bevhost']
+Ralph Bean <ralph> removed FE-NEEDSPONSOR from BZ 1225249
+Ralph Bean <ralph> - directly sponsored: [u'cydrobolt', u'virtmaint']
+Rex Dieter <rdieter> removed FE-NEEDSPONSOR from BZ 951496
+Rex Dieter <rdieter> removed FE-NEEDSPONSOR from BZ 1099166
+Rex Dieter <rdieter> removed FE-NEEDSPONSOR from BZ 1117209
+Rex Dieter <rdieter> removed FE-NEEDSPONSOR from BZ 1177038
+Rex Dieter <rdieter> - directly sponsored: [u'zironid', u'tscherf', u'nocnokneo', u'carandraug', u'grahamwhiteuk']
+Radek Vokal <rvokal> - directly sponsored: [u'vittyvk', u'podvody', u'mosvald', u'mchalk', u'jjelen', u'mmarhefk',
+u'pjasicek', u'nforro', u'jtluka', u'dkaspar', u'mcyprian']
+Michel Alexandre Salim <salimma> - directly sponsored: [u'jacksonisaac', u'aviso']
+Stephen Gallagher <sgallagh> - directly sponsored: [u'pvolpe']
+Dan Horák <sharkcz> removed FE-NEEDSPONSOR from BZ 1136972
+Dan Horák <sharkcz> - directly sponsored: [u'rajalakshmi', u'mskalick', u'luhliarik', u'rdossant', u'krisman', u'olichtne']
+Tomas Mraz <tmraz> - directly sponsored: [u'gisburn', u'ayrx', u'mhabrnal']
+Vít Ondruch <vondruch> worked on BZ 1244760
+Vít Ondruch <vondruch> worked on BZ 1244764
+Vít Ondruch <vondruch> - directly sponsored: [u'smoitra', u'axelvvd']
+Will Benton <willb> - directly sponsored: [u'egafford', u'hchen']
